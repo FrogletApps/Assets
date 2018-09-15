@@ -28,7 +28,7 @@ p {
     cursor: pointer;
 }
 
-input{
+input, select{
     font-family: "Segoe UI", Roboto, Ubuntu, sans-serif;
     cursor: pointer;
 }
