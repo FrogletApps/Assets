@@ -24,6 +24,10 @@ p {
     text-align: center;
 }
 
+.clickable{
+    cursor: pointer;
+}
+
 input{
     font-family: "Segoe UI", Roboto, Ubuntu, sans-serif;
     cursor: pointer;
