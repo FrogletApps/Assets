@@ -20,9 +20,12 @@ p {
     text-align: center;
 }
 
-input, #center{
-    font-family: "Segoe UI", Roboto, Ubuntu, sans-serif;
+#center {
     text-align: center;
+}
+
+input{
+    font-family: "Segoe UI", Roboto, Ubuntu, sans-serif;
     cursor: pointer;
 }
 
