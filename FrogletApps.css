@@ -28,7 +28,11 @@ p {
     cursor: pointer;
 }
 
-input, select{
+input[text]{
+    cursor: text;
+}
+
+input[submit], input[button], input, select{
     font-family: "Segoe UI", Roboto, Ubuntu, sans-serif;
     cursor: pointer;
 }
