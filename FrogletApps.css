@@ -34,3 +34,23 @@ input{
     background-color: #242;
     padding: 2%;
 }
+
+
+/*Stuff for tables*/
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid #969696;
+    padding: 5px;
+    text-align: center;
+    /*Centralise*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th {
+    background: #BBB;
+}
+
+tr:hover {
+    background: #EEE;
+}
