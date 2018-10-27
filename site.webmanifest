@@ -1,6 +1,10 @@
 {
     "name": "Froglet Apps",
     "short_name": "Froglet Apps",
+    "lang": "en-GB",
+    "theme_color": "#224422",
+    "background_color": "#224422",
+    "display": "standalone",
     "icons": [
         {
             "src": "https://frogletapps.github.io/Assets/android-chrome-192x192.png",
@@ -11,14 +15,11 @@
             "src": "https://frogletapps.github.io/Assets/android-chrome-256x256.png",
             "sizes": "256x256",
             "type": "image/png"
-        }
+        },
         {
             "src": "https://frogletapps.github.io/Assets/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
-    ],
-    "theme_color": "#00a300",
-    "background_color": "#00a300",
-    "display": "standalone"
+    ]
 }
