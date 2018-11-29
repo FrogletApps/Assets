@@ -39,6 +39,19 @@ input[type="submit"], input[type="button"], select{
     padding: 2%;
 }
 
+#settingsBar{
+    text-align: center;
+    background-color: #89c489;
+	padding: 1%;
+}
+
+/*Used for hovering buttons on top left*/
+#topLeft{
+	position: absolute;
+    top: 10px;
+    left: 20px;
+}
+
 
 /*Stuff for tables*/
 table, th, td {
