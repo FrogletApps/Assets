@@ -42,7 +42,12 @@ input[type="submit"], input[type="button"], select{
 #settingsBar{
     text-align: center;
     background-color: #89c489;
-	padding: 1%;
+    padding: 1%;
+}
+
+#settingsBar, input, label{
+	font-family: "Segoe UI", Roboto, Ubuntu, sans-serif;
+	line-height: 1.7em;
 }
 
 /*Used for hovering buttons on top left*/
