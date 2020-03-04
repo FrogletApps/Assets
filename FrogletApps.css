@@ -7,7 +7,6 @@ html, body {
 }
 
 h1 {
-    font-family: "Segoe UI", Roboto, Ubuntu, sans-serif;
     text-align: center;
     font-weight: lighter;
     font-size: 2em;
@@ -24,32 +23,32 @@ p {
     text-align: center;
 }
 
-.clickable{
+.clickable {
     cursor: pointer;
 }
 
-input[type="submit"], input[type="button"], select{
+input[type="submit"], input[type="button"], select {
     cursor: pointer;
 }
 
-#topBar{
+#topBar {
     text-align: center;
     background-color: #242;
     padding: 2%;
 }
 
-#settingsBar{
+#settingsBar {
     text-align: center;
     background-color: #89c489;
     padding: 1%;
 }
 
-#settingsBar, input, label{
+#settingsBar, input, label {
 	line-height: 1.7em;
 }
 
 /*Used for hovering buttons on top left*/
-#topLeft{
+#topLeft {
 	position: absolute;
     top: 10px;
     left: 20px;
